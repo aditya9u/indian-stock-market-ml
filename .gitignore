@@ -1,7 +1,17 @@
+# Python virtual environments
+.venv/
 venv/
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Environment variables
 .env
+
+# Datasets
 data/raw/
 data/processed/
